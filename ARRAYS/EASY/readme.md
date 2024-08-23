@@ -11,6 +11,10 @@ Questions
 9. Minimum Element in Array?
 10. Vector Basics,Creation,Insertion,Deletion,Updation,Display?
 11. Rotate Left By One Element?
-12. Sunm of Two elements is equal to target(two pointer)?
+12. Rotate Left By K Elements?
+13. Sum of Two elements is equal to target(two pointer)?
+14. Find Missing Number?
+15. Find Union Of Two Arrays?
+    
 
     
