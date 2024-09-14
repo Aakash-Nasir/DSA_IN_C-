@@ -3,10 +3,11 @@ Object Oriented Programming Language
 TOPIC COVERED
 
 1. User Defined Data Type.
-2. Constructor
-3. This Keyword
-4. Single Inheritance
-5. Multiple inheritance
-6. Diamond Problem
-7. Access Modifier
+2. Core Concept
+3. Constructor
+4. This Keyword
+5. Single Inheritance
+6. Multiple inheritance
+7. Diamond Problem
+8. Access Modifier
    
